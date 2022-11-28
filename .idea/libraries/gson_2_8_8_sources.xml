@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="gson-2.8.8-sources">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/OneDrive - The Academic College of Tel-Aviv Jaffa - MTA/Desktop/libraries enigma/gson-2.8.8/gson-2.8.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/OneDrive - The Academic College of Tel-Aviv Jaffa - MTA/Desktop/libraries enigma/gson-2.8.8/gson-2.8.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/OneDrive - The Academic College of Tel-Aviv Jaffa - MTA/Desktop/libraries enigma/gson-2.8.8/gson-2.8.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
